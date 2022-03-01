@@ -1,4 +1,4 @@
-# listFix()
+# listFix()—Fix Broken Playlists!
 
 A Java application that can fix/repair playlists by searching a media  library for lost, missing, & renamed files. Supports absolute & relative references, UTF-8, UNC paths, and URLs. Removes duplicates,  sorts and randomizes lists, and much more!
 
